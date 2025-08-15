@@ -8,7 +8,9 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-see%20requirements.txt-orange)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-A secure password generator tool written in Python that creates strong, random passwords for enhanced security.  
+A secure password generator tool written in Python that creates strong, random passwords for enhanced security.    
+
+<img width="648" height="448" alt="image01" src="https://github.com/user-attachments/assets/2f36b44a-8e78-4ff9-9394-e972d49c1815" /> 
 
 
 ## 📑 Index
