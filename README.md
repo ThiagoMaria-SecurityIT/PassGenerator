@@ -82,7 +82,7 @@ With a professional background in security analysis and a deep passion for progr
 
 **Let's Connect:**    
 
-👇🏽 Click in the badges below:   
+👇🏽 Click on the badges below:   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
 [![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)  
